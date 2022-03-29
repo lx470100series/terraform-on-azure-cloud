@@ -7,7 +7,7 @@ variable "business_division" {
 }
 
 # Environment Variable
-variable "rnvironment" {
+variable "environment" {
   description = "environment variable used as a prefix"
   type        = string
   default     = "dev"
@@ -26,5 +26,5 @@ variable "resource_group_name" {
 variable "resource_group_location" {
   description = "Region where resources will be created"
   type        = string
-  default     = eastus2
+  default     = "eastus2"
 }
