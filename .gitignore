@@ -30,3 +30,16 @@ override.tf.json
 
 # Mac Files
 .DS_Store
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c1-versions.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c1-versions.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c2-generic-input-variables.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c3-locals.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c4-random-resources.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c5-resource-group.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c6-01-vnet-input-variables.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c6-02-virtual-network.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c6-03-web-subnet-and-nsg.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c6-04-app-subnet-and-nsg.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c6-05-db-subnet-and-nsg.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c6-06-bastion-subnet-and-nsg.tf
+10-Azure-Virtual-Network-4Tier/terraform-manifests/c6-07-vnet-outputs.tf
